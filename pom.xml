@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.VAsuplementos</groupId>
+  <groupId>org.comercio</groupId>
   <artifactId>gestionProductos</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>demoVasumplementos</name>
@@ -145,7 +145,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>org.vasuplementos.demovasumplementos/vasuplementos.demovasumplementos.MainApp</mainClass>
+                            <mainClass>org.comercio.gestionProductos.FakeMain</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
