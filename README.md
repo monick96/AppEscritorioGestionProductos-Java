@@ -1,4 +1,4 @@
-﻿# AppEscritorioGestionProductos-Java
+﻿# AppEscritorioGestionPresupuestos-Java
  ## Excel de datos de productos
  ![Captura de pantalla 2024-08-16 221145](https://github.com/user-attachments/assets/742d6c32-1510-4c4f-8cc3-562d557672a0)
 
